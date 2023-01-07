@@ -1,0 +1,7 @@
+fsm.c:6:6:setPedestrianLight	16	static
+fsm.c:26:6:setT1	16	static
+fsm.c:44:6:setT2	16	static
+fsm.c:63:6:send7SEG	16	static
+fsm.c:76:6:fsm_automatic_run	8	static
+fsm.c:240:6:fsm_manual_run	8	static
+fsm.c:411:6:fsm_tuning_run	8	static
